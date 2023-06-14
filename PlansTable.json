@@ -1,0 +1,172 @@
+[
+  {
+    "plan": "UltraNet Plan",
+    "price": "$50/month",
+    "description": "Enjoy fast and reliable internet with the UltraNet Plan. Get 50GB of high-speed data along with unlimited calls and texts."
+  },
+  {
+    "plan": "InfiniteSurf Plan",
+    "price": "$60/month",
+    "description": "Surf the web endlessly with the InfiniteSurf Plan. It offers unlimited high-speed data, making it perfect for heavy data users."
+  },
+  {
+    "plan": "MegaStream Plan",
+    "price": "$70/month",
+    "description": "Experience seamless streaming with the MegaStream Plan. It provides 100GB of high-speed data along with access to popular streaming platforms."
+  },
+  {
+    "plan": "FamilyMax Plan",
+    "price": "$80/month",
+    "description": "Connect your entire family with the FamilyMax Plan. It offers 150GB of shared data, unlimited calls, and texts for all family members."
+  },
+  {
+    "plan": "FamilyConnect Plan",
+    "price": "$90/month",
+    "description": "Stay connected with your loved ones with the FamilyConnect Plan. Enjoy 200GB of shared data, unlimited calls, and texts within your family."
+  },
+  {
+    "plan": "GlobalConnect Plan",
+    "price": "$100/month",
+    "description": "Stay connected wherever you go with the GlobalConnect Plan. It offers 250GB of data, unlimited calls, and international roaming services."
+  },
+  {
+    "plan": "WorldTalk Plan",
+    "price": "$110/month",
+    "description": "Make unlimited international calls with the WorldTalk Plan. Stay connected with your loved ones across the globe without worrying about excessive charges."
+  },
+  {
+    "plan": "VoiceMax Plan",
+    "price": "$60/month",
+    "description": "Talk to your heart's content with the VoiceMax Plan. Enjoy unlimited voice calls and texts within your network along with 20GB of data."
+  },
+  {
+    "plan": "VoicePlus Plan",
+    "price": "$70/month",
+    "description": "Stay connected with friends and family with the VoicePlus Plan. It offers unlimited calls and texts to all networks along with 30GB of data."
+  },
+  {
+    "plan": "StudentSurf Plan",
+    "price": "$40/month",
+    "description": "Stay connected while you study with the StudentSurf Plan. It provides 10GB of high-speed data along with exclusive discounts for students."
+  },
+  {
+    "plan": "StudentConnect Plan",
+    "price": "$50/month",
+    "description": "Connect and collaborate with fellow students with the StudentConnect Plan. Enjoy 20GB of high-speed data, unlimited calls, and texts for academic needs."
+  },
+  {
+    "plan": "DataMax Plan",
+    "price": "$90/month",
+    "description": "Experience the power of unlimited data with the DataMax Plan. Stay connected, stream your favorite content, and never worry about data limits."
+  },
+  {
+    "plan": "SuperConnect Plan",
+    "price": "$80/month",
+    "description": "Connect with the world around you with the SuperConnect Plan. It offers 80GB of high-speed data along with unlimited calls and texts."
+  },
+  {
+    "plan": "All-in-One Plan",
+    "price": "$100/month",
+    "description": "Get it all with the All-in-One Plan. Enjoy unlimited data, calls, and texts, along with additional benefits like premium streaming services."
+  },
+  {
+    "plan": "SeniorSurf Plan",
+    "price": "$45/month",
+    "description": "Stay connected and engaged with the SeniorSurf Plan. It offers 5GB of high-speed data, unlimited calls, and texts, tailored for senior users."
+  },
+  {
+    "plan": "SeniorConnect Plan",
+    "price": "$55/month",
+    "description": "Connect with ease using the SeniorConnect Plan. Enjoy 10GB of high-speed data, unlimited calls, and texts, designed for senior users."
+  },
+  {
+    "plan": "PrepaidSurf Plan",
+    "price": "$30/month",
+    "description": "Enjoy the flexibility of prepaid with the PrepaidSurf Plan. It offers 3GB of high-speed data, unlimited calls, and texts for a month."
+  },
+  {
+    "plan": "PrepaidPlus Plan",
+    "price": "$40/month",
+    "description": "Stay connected on your terms with the PrepaidPlus Plan. Enjoy 5GB of high-speed data, unlimited calls, and texts with prepaid convenience."
+  },
+  {
+    "plan": "GlobalRoam Plan",
+    "price": "$10/day",
+    "description": "Stay connected even when you're abroad with the GlobalRoam Plan. It offers international roaming services for data, calls, and texts at a flat daily rate."
+  },
+  {
+    "plan": "RoamUnlimited Plan",
+    "price": "$20/day",
+    "description": "Enjoy unlimited roaming benefits with the RoamUnlimited Plan. Stay connected internationally with unlimited data, calls, and texts at a flat daily rate."
+  },
+  {
+    "plan": "StreamMax Plan",
+    "price": "$70/month",
+    "description": "Stream your favorite content without limits with the StreamMax Plan. It offers 80GB of high-speed data, perfect for video streaming enthusiasts."
+  },
+  {
+    "plan": "EntertainmentBundle Plan",
+    "price": "$90/month",
+    "description": "Get the ultimate entertainment experience with the EntertainmentBundle Plan. It offers high-speed data, streaming services, and exclusive content bundles."
+  },
+  {
+    "plan": "UltimateStream Plan",
+    "price": "$100/month",
+    "description": "Unlock the ultimate streaming experience with the UltimateStream Plan. It provides unlimited high-speed data, prioritized for streaming services."
+  },
+  {
+    "plan": "FlexiPlan",
+    "price": "Varies based on contract duration",
+    "description": "Customize your plan based on your needs with the FlexiPlan. Enjoy flexible contract durations and choose the data, voice, and text options that suit you."
+  },
+  {
+    "plan": "WelcomeSurf Plan (Promotion for new customers)",
+    "price": "$50/month (first 3 months), then $60/month",
+    "description": "Get a warm welcome with the WelcomeSurf Plan. New customers enjoy a special promotion, with discounted prices for the first 3 months."
+  },
+  {
+    "plan": "FamilyShare Plan",
+    "price": "$90/month",
+    "description": "Share the love and data with the FamilyShare Plan. Enjoy 150GB of shared data, unlimited calls, and texts for your entire family."
+  },
+  {
+    "plan": "FamilyConnect Plus Plan",
+    "price": "$100/month",
+    "description": "Take family connectivity to the next level with the FamilyConnect Plus Plan. Enjoy 200GB of shared data, unlimited calls, and texts for the whole family."
+  },
+  {
+    "plan": "DataPlus Plan (Promotion for data-only plans)",
+    "price": "$40/month",
+    "description": "Get more data with the DataPlus Plan. This promotion offers 15GB of high-speed data, perfect for users who primarily need data connectivity."
+  },
+  {
+    "plan": "GlobalTalk Add-On",
+    "price": "$10/month",
+    "description": "Stay connected globally with the GlobalTalk Add-On. Add international calling capabilities to your plan and enjoy discounted rates."
+  },
+  {
+    "plan": "WorldConnect Add-On",
+    "price": "$20/month",
+    "description": "Connect with the world with the WorldConnect Add-On. Enjoy discounted international calling rates and stay connected across borders."
+  },
+  {
+    "plan": "TextOnly Plan",
+    "price": "$20/month",
+    "description": "Stay connected through texts with the TextOnly Plan. It offers unlimited text messaging capabilities, perfect for users who prefer texting over calls."
+  },
+  {
+    "plan": "5GMax Plan",
+    "price": "$80/month",
+    "description": "Experience the blazing-fast speeds of 5G with the 5GMax Plan. Enjoy high-speed data, unlimited calls, and texts on a 5G network."
+  },
+  {
+    "plan": "SmallFamily Plan",
+    "price": "$50/month",
+    "description": "Perfect for small families, the SmallFamily Plan offers 50GB of shared data, unlimited calls, and texts for seamless connectivity."
+  },
+  {
+    "plan": "TravelConnect Plan",
+    "price": "$60/month",
+    "description": "Stay connected while you travel with the TravelConnect Plan. Enjoy 30GB of high-speed data, unlimited calls, and texts even when you're on the go."
+  }
+]
